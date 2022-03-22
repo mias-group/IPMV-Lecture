@@ -1,2 +1,2 @@
-# ipmv-lecture
-Image Processing &amp; Machine Vision Lecture by Rui Fan (Tongji University)
+# Image Processing & Machine Vision Lecture
+Lecturer: Rui Fan (Tongji University)
